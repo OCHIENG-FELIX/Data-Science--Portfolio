@@ -1,3 +1,9 @@
+
+---
+
+### 2. **Superstore Sales Performance Dashboard** – `README.md`
+
+```markdown
 # Superstore Sales Performance Dashboard
 
 **Business Intelligence & Analytics Project**
@@ -13,11 +19,9 @@ Comprehensive analysis of a retail dataset to uncover sales trends, profitabilit
 ### Tools & Technologies
 - **Power BI** – Main interactive dashboard
 - **Python** – Pandas, Plotly for additional analysis and reporting
-- Data Cleaning, Feature Engineering, and DAX calculations
 
-### Deliverables
-- Interactive Power BI Dashboard
-- Professional Excel Report (`Superstore_Professional_Report.xlsx`)
-- Python analysis notebook
+### Links
+- [View Python Notebook](https://colab.research.google.com/drive/1bz1E3n3IYkBYcVAdShZHIzyHMzvCYhGa)
+- [View Power BI Dashboard](#) *(Add link when published)*
 
 **This project showcases strong business analysis, visualization, and storytelling skills.**
